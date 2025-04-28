@@ -6,6 +6,10 @@
 	],
 	"settings": {
 		"editor.fontSize": 13,
-		"files.autoSave": "afterDelay"
+		"files.autoSave": "afterDelay",
+		"editor.defaultFormatter": "ms-python.vscode-pylance",
+		"notebook.defaultFormatter": "ms-python.vscode-pylance",
+		"python.analysis.supportDocstringTemplate": true,
+		"editor.defaultFoldingRangeProvider": "ms-python.python"
 	}
 }
