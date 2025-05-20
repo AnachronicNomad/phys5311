@@ -2,3 +2,4 @@ phys5311-env/
 .vscode/
 .DS_Store
 *.ipynb_checkpoints/
+*figs*/
