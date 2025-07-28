@@ -1,3 +1,0 @@
-lorentz.ipynb filter=lfs diff=lfs merge=lfs -text
-multipole.ipynb filter=lfs diff=lfs merge=lfs -text
-poisson.ipynb filter=lfs diff=lfs merge=lfs -text
